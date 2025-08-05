@@ -4,7 +4,8 @@
 <h3 align="center">Web Developer from Semarang, Indonesia 🇮🇩</h3>
 
 <h3>About Me</h3>
-Hi! I'm **Sofyan Andika Putra** , an 19-year-old Web Developer from **Semarang, Indonesia**. I graduated from **SMK Negeri 10 Semarang** , majoring in **Rekayasa Perangkat Lunak (RPL)**.
+Hi! I'm **Sofyan Andika Putra**, a 19-year-old Web Developer from **Semarang, Indonesia**. I graduated from **SMK Negeri 10 Semarang**, majoring in **Rekayasa Perangkat Lunak (RPL)**.
+
 💻 I'm passionate about creating modern, responsive websites using Laravel and Tailwind CSS. I enjoy learning new technologies, building real-world projects, and exploring the world of programming.
 
 ## ⚙️ Tech Stacks
