@@ -4,12 +4,11 @@
 <h3 align="center">Web Developer from Semarang, Indonesia 🇮🇩</h3>
 
 <h3>About Me</h3>
-<hr style="border: 1px solid #ff0000; width: 50%;">
 Hi! I'm **Sofyan Andika Putra**, an 19-year-old Web Developer from **Semarang, Indonesia**. I graduated from **SMK Negeri 10 Semarang**, majoring in **Rekayasa Perangkat Lunak (RPL)**.
 💻 I'm passionate about creating modern, responsive websites using Laravel and Tailwind CSS. I enjoy learning new technologies, building real-world projects, and exploring the world of programming.
 
 ## ⚙️ Tech Stacks
-<hr style="border: 1px solid #ff0000; width: 50%;">
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -30,7 +29,6 @@ Hi! I'm **Sofyan Andika Putra**, an 19-year-old Web Developer from **Semarang, I
 
 
 ## 📫 Reach Me
-<hr style="border: 1px solid #ff0000; width: 50%;">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sofyanandikaputra773@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/panx_kun)
 [![Website](https://img.shields.io/badge/Website-Coming_Soon-0A66C2?logo=google-chrome&logoColor=white)](#)
